@@ -1,0 +1,38 @@
+_repo: The-Third-Class-at-Miss-Kaye-s--A-School-Story_33263
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Dixon, Arthur A. (Arthur Augustus)
+    alias: Dixon, A. A. (Arthur Augustus)
+    birthdate: 1872
+    deathdate: 1959
+    gutenberg_agent_id: '28329'
+    url: http://www.gutenberg.org/2009/agents/28329
+covers:
+- cover_type: archival
+  image_path: 33263-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brazil, Angela
+    birthdate: 1869
+    deathdate: 1947
+    gutenberg_agent_id: '2544'
+    url: http://www.gutenberg.org/2009/agents/2544
+    wikipedia: http://en.wikipedia.org/wiki/Angela_Brazil
+description: How a selfish little girl becomes a more caring person through the experiences
+  she has at school.
+gutenberg_issued: '2010-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33263'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Bildungsromans'
+- !lcc 'PZ'
+title: 'The Third Class at Miss Kaye''s: A School Story'
+url: http://www.gutenberg.org/ebooks/33263
